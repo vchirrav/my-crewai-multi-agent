@@ -275,8 +275,8 @@ Feel free to fork this repository and experiment with different:
 ## References
 
 - [CrewAI Documentation](https://docs.crewai.com/)
-- [Ollama](https://ollama.ai/)
-- [Llama Models](https://ai.meta.com/llama/)
+- [Ollama](https://www.ollama.com/)
+- [Llama Models](https://www.llama.com/llama-downloads/)
 
 ## Contact
 
